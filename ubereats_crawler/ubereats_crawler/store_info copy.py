@@ -5,9 +5,9 @@ import requests
 def get_store_ids():
     url = "https://www.ubereats.com/api/getSeoFeedV1"
 
-    querystring = {"localeCode": "ke"}
+    querystring = {"localeCode": "cl"}
 
-    payload = {"pathname": "/ke/category/nairobi-nairobi/fast-food"}
+    payload = {"pathname": "/cl/category/santiago-rm/fast-food"}
     headers = {
         "cookie": "uev2.id.xp=af1ae106-e9e8-436e-a9dc-8bcd3db4df99;",
         "authority": "www.ubereats.com",
@@ -15,7 +15,7 @@ def get_store_ids():
         "accept-language": "en-US,en;q=0.5",
         "content-type": "application/json",
         "origin": "https://www.ubereats.com",
-        "referer": "https://www.ubereats.com/ke/category/nairobi-nairobi/fast-food",
+        "referer": "https://www.ubereats.com/cl/category/santiago/fast-food",
         "sec-fetch-dest": "empty",
         "sec-fetch-mode": "cors",
         "sec-fetch-site": "same-origin",

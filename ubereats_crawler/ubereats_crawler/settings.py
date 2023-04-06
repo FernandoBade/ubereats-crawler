@@ -52,6 +52,9 @@ DEFAULT_REQUEST_HEADERS = {
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
     "x-csrf-token": "x"
 }
+FEED_FORMAT = 'json'
+FEED_URI = 'output.json'
+
 
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
