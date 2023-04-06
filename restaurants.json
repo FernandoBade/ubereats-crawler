@@ -1,0 +1,564 @@
+{
+    "restaurants": [
+        {
+            "uuid": "508f31b3-9824-5be6-9030-c317ecb4a780",
+            "nome": "Rolling Barrel",
+            "location": "Kamburu Dr, Nairobi",
+            "latitude": -1.29741,
+            "longitude": 36.79296
+        },
+        {
+            "uuid": "b5661f4a-cf31-589c-a0b8-3a55b9d67be1",
+            "nome": "Galito's - Kileleshwa",
+            "location": "Total Petrol Station - Kileleshwa, Nairobi, KE",
+            "latitude": -1.2826181543268158,
+            "longitude": 36.78526761157223
+        },
+        {
+            "uuid": "b54b61b7-09ea-512a-be15-4ff4cc1f135a",
+            "nome": "Kilimani Pork Centre",
+            "location": "Wood Avenue, Nairobi, EMEA 00100",
+            "latitude": -1.296051439286614,
+            "longitude": 36.78640826400611
+        },
+        {
+            "uuid": "771bb12e-3937-486e-ad89-cf46e4c92f97",
+            "nome": "Delsi Wings - Kilimani",
+            "location": " 31 Wood Ave, Nairobi, Kenya, Equitoriai Business Park, Nairobi 00200",
+            "latitude": -1.2956216,
+            "longitude": 36.786446
+        },
+        {
+            "uuid": "4696e8d1-f63f-454f-a867-eea70b2b5a92",
+            "nome": "Delsi Wings and Ribs",
+            "location": "Wood Ave, Nairobi",
+            "latitude": -1.2960929,
+            "longitude": 36.786728
+        },
+        {
+            "uuid": "69eea2f2-4fdb-47c3-ae49-54f97c69bfb7",
+            "nome": "Supermarket Essentials - Ngong Rd",
+            "location": "Ola Petrol Station Ngong Road Next To Prestige Mall, Nairobi, ",
+            "latitude": -1.299948486033073,
+            "longitude": 36.789921216588134
+        },
+        {
+            "uuid": "e665de26-54e5-4598-9398-e4972b765f21",
+            "nome": "EXCELLENT WINGS NAIROBI ",
+            "location": "31 Wood Avenue Kilimani , Second Floor , Nairobi, Nairobi 00505",
+            "latitude": -1.29634,
+            "longitude": 36.78643
+        },
+        {
+            "uuid": "cc6e2375-3a22-44d2-95d2-e5eda04fbae3",
+            "nome": "Shop and Save Supermarket - Riverside",
+            "location": "The Office Park, Riverside Drive, ",
+            "latitude": -1.2705253425520235,
+            "longitude": 36.79872620174192
+        },
+        {
+            "uuid": "56216e42-e5a6-438d-87f8-fc14ae7554b0",
+            "nome": "Mabruk cafe",
+            "location": "Kilimani Chania Avenue, Behind Adlife Plaza, Nairobi, EMEA 00400",
+            "latitude": -1.295250093076728,
+            "longitude": 36.78444998162244
+        },
+        {
+            "uuid": "ce049b11-68cc-5f36-88ab-0a11491ca8f5",
+            "nome": "Snack Attack Westlands",
+            "location": "City Park Dr, Nairobi",
+            "latitude": -1.2574467996445757,
+            "longitude": 36.827878674516874
+        },
+        {
+            "uuid": "497ca163-e3c5-4e6d-84c8-d5cf4d601e26",
+            "nome": "Tunic Kitchen",
+            "location": "Kandara Rd, Nairobi",
+            "latitude": -1.27571,
+            "longitude": 36.78928
+        },
+        {
+            "uuid": "fc4cfbe7-ec4f-5a38-a9b2-720ce39eec4a",
+            "nome": "Lam-Lam's Pizza and Yummy Bitings",
+            "location": "Mini-Mall,Valley Arcade, Off  Hendred Road, Nairobi, ",
+            "latitude": -1.29266,
+            "longitude": 36.76348
+        },
+        {
+            "uuid": "c641254f-decc-4022-8e93-adef8ff7c78c",
+            "nome": "Amaryah Cuisines",
+            "location": "Kileleshwa, Kieni Road, Nairobi, Nairobi 00100",
+            "latitude": -1.2793256517263905,
+            "longitude": 36.78957797548236
+        },
+        {
+            "uuid": "6a7097ed-6711-4c88-bee1-a240293f7da3",
+            "nome": "Simply Halal",
+            "location": "South C, Halai Estate, Nairobi",
+            "latitude": -1.2831,
+            "longitude": 36.8209
+        },
+        {
+            "uuid": "9c05d580-a591-444b-8c4c-531e921042be",
+            "nome": "Indaxe Steak House",
+            "location": "Argwings Kodhek Road Chaka Place Chaka Place, Nairobi, Kenya, Ground Floor, Nairobi County 00100",
+            "latitude": -1.2926772,
+            "longitude": 36.791042
+        },
+        {
+            "uuid": "6fa2c089-718f-4d4c-8574-43b3c8e92b50",
+            "nome": "BATIANS PEAK",
+            "location": "Argwings Kodhek Rd, Nairobi, Kenya, Nairobi County",
+            "latitude": -1.2945641,
+            "longitude": 36.7977
+        },
+        {
+            "uuid": "55d9252b-01fc-4d42-b3d8-1318804ac995",
+            "nome": "Viva Grill Steakhouse",
+            "location": "Nairobi, Kenya, ",
+            "latitude": -1.2599435,
+            "longitude": 36.8034411
+        },
+        {
+            "uuid": "41264272-ef0f-58ba-9203-59a8cd57b9f7",
+            "nome": "Chowpaty - Kileleshwa",
+            "location": "Olenguruone Road, Kileleshwa\r\nNairobi, Nairobi 00800",
+            "latitude": -1.282487931492366,
+            "longitude": 36.78485905962444
+        },
+        {
+            "uuid": "55a38f3f-fbee-498c-a374-3d785ed58552",
+            "nome": "Fusion Veg Ltd",
+            "location": "P. O. Box 6980, Ground Floor, West Point Bldg, Nairobi, Nairobi 00623",
+            "latitude": -1.262333181194749,
+            "longitude": 36.807101368904114
+        },
+        {
+            "uuid": "e3e708d2-c6f1-459b-a4ff-117a3712b005",
+            "nome": "Willow Garden Kitchen",
+            "location": "Olenguruone Road, Supershine Center., 5, ",
+            "latitude": -1.2799269599875287,
+            "longitude": 36.7809666605677
+        },
+        {
+            "uuid": "2a2ab68a-17f3-4cbe-b852-bddb7f3bedd3",
+            "nome": "The Chef House",
+            "location": "Fourth Parklands Ave, Nairobi, Nairobi County",
+            "latitude": -1.2573474,
+            "longitude": 36.8182618
+        },
+        {
+            "uuid": "9d5d2226-3fef-463d-bb1d-cccd7c424dbd",
+            "nome": "Special Barbeque (By Bhajia House)",
+            "location": "Diamond Plaza Food Court, Nairobi",
+            "latitude": -1.25779,
+            "longitude": 36.81832
+        },
+        {
+            "uuid": "b0bdf93a-8396-52f5-beb2-2c7a1a1856a3",
+            "nome": "Kukito Orbit",
+            "location": "Chiromo Ln & Westlands Rd, Nairobi, Nairobi 00100",
+            "latitude": -1.26993,
+            "longitude": 36.80919
+        },
+        {
+            "uuid": "d4943737-e9c9-5f6f-aedc-13d9eb1049bc",
+            "nome": "Kukito Highway Mall",
+            "location": "Java House Highway Mall, Nairobi, EMEA 00100",
+            "latitude": -1.3004633162341113,
+            "longitude": 36.82477276621194
+        },
+        {
+            "uuid": "a4fe7450-98f9-4481-b809-4f4916b9d61a",
+            "nome": "Aila's Dishes",
+            "location": "Madaraka Estate, Nairobi, Kenya, Next To Sikawa Plaza, ",
+            "latitude": -1.3092467,
+            "longitude": 36.8112417
+        },
+        {
+            "uuid": "f3e45431-988a-49a2-a939-6c5889417706",
+            "nome": "The Plato Restaurant ",
+            "location": "Flamingo Towers, Mara Road, Upperhill, Ground Floor, Nairobi, Nairobi 00100",
+            "latitude": -1.2965624767092088,
+            "longitude": 36.81709558852792
+        },
+        {
+            "uuid": "aa543216-d1f3-40ea-bb52-e0e22be8049d",
+            "nome": "Tikka Barbecue Corner -Gigiri",
+            "location": "Fourth Parklands Ave, Nairobi, Kenya, Shop No. 2, ",
+            "latitude": -1.258163,
+            "longitude": 36.818555
+        },
+        {
+            "uuid": "7f375e55-5a23-470b-8d31-bc00acde7ada",
+            "nome": "RIBS WINGS BURGERS & BRISKET HUB",
+            "location": "Wood Avenue, Woodlands Mall-Kilimani, Nairobi, Nairobi 51869",
+            "latitude": -1.2948185019321266,
+            "longitude": 36.78660458566424
+        },
+        {
+            "uuid": "7c73fd19-067f-4244-ad04-e0c0e936840d",
+            "nome": "McFrys - Hurlingham",
+            "location": "59895, Nairobi, Nairobi County",
+            "latitude": -1.2950078,
+            "longitude": 36.7996541
+        },
+        {
+            "uuid": "0c5d10d6-e318-53a4-8c9d-c79ce932a33a",
+            "nome": "Marty\u2019s Famous Burgers - Kilimani",
+            "location": "Argwings Kodhek Rd, Nairobi",
+            "latitude": -1.29264,
+            "longitude": 36.78964
+        },
+        {
+            "uuid": "80cd222d-ef81-4482-89cc-285c77febe21",
+            "nome": "Mataam Swahili ",
+            "location": "Ngong Rd, Nairobi, Kenya, Opposite Total Petrol Station, ",
+            "latitude": -1.2990294,
+            "longitude": 36.789295
+        },
+        {
+            "uuid": "354f6600-6401-413a-af97-5a3ac19e3332",
+            "nome": "KFC - Hurlingham",
+            "location": "Nairobi, Kenya, ",
+            "latitude": -1.2956483,
+            "longitude": 36.7993297
+        },
+        {
+            "uuid": "8c78ea09-7647-4de8-94f0-f7b4eb5448ec",
+            "nome": "Westy Fry's ",
+            "location": "Westlands Arcade, Door No. 3, Nairobi",
+            "latitude": -1.2649801421194422,
+            "longitude": 36.80287584220305
+        },
+        {
+            "uuid": "995ab32f-d64b-5c78-8faa-80d8ea5a80ef",
+            "nome": "Java - Express Kileleshwa",
+            "location": "Shell Petrol Station Along Ring Road Kileleshwa, Opposite Laikipia Road Junction, ",
+            "latitude": -1.2744907199729685,
+            "longitude": 36.800334920382625
+        },
+        {
+            "uuid": "ea14efde-dd5f-48a5-aeca-d587847cfac8",
+            "nome": "Bubble cafe ",
+            "location": "South C Next To Ridge View Estate , Nairobi, Nairobi 26-70100",
+            "latitude": -1.2831,
+            "longitude": 36.8209
+        },
+        {
+            "uuid": "be8e60e4-9205-5d0d-80b4-e2f1d7f52e9c",
+            "nome": "Lago's Nigeria Cuisine",
+            "location": "Pq3p+Jjq Nairobi, Kilimani Estate, EMEA 00100",
+            "latitude": -1.2958367353669833,
+            "longitude": 36.78654064695572
+        },
+        {
+            "uuid": "dadb6274-e304-4cbf-9043-198aefa84283",
+            "nome": "Debonairs Pizza -  ABC Place",
+            "location": "Waiyaki Way Total Abc, Nairobi, Kenya, ",
+            "latitude": -1.2592551,
+            "longitude": 36.778347
+        },
+        {
+            "uuid": "a4e16cb3-5344-42d8-9eac-183ab8a48ec6",
+            "nome": "Fonda's Taqueria",
+            "location": "Sarit Centre, Rooftop Garden, Nairobi, Kenya, ",
+            "latitude": -1.2602642,
+            "longitude": 36.801586
+        },
+        {
+            "uuid": "e6d890c3-52ef-45dc-b1f6-c16614c83d99",
+            "nome": "Hatchbox - Sarit",
+            "location": "Food Court Sarit Center, Nairobi, Nairobi 100",
+            "latitude": -1.2609684,
+            "longitude": 36.802017
+        },
+        {
+            "uuid": "37c09f7f-bee8-499b-b7a6-bfdbb09f9c5a",
+            "nome": "Bhagwanji Foods",
+            "location": "Pramukh Swami Ave, Nairobi, Kenya, Shop No 1next To Beyond Fruits, Nairobi County",
+            "latitude": -1.2602482,
+            "longitude": 36.8172018
+        },
+        {
+            "uuid": "febe6010-009c-47be-a16f-6f2765a0d5f0",
+            "nome": "FIESTA PLACE",
+            "location": "Ring Road, Westlands, Nairobi, Kenya, ",
+            "latitude": -1.2602667762800104,
+            "longitude": 36.803457251440484
+        },
+        {
+            "uuid": "824f3f54-f556-5e79-bb05-003d9d852e11",
+            "nome": "Vanice Eatery",
+            "location": "Ngummo Golf Course Phase One,Ngobit East Court ,Gate 87, ",
+            "latitude": -1.3066983879197784,
+            "longitude": 36.80074320442876
+        },
+        {
+            "uuid": "307af17e-7417-5265-88a7-bc9e0427fbbd",
+            "nome": "Pork Backyard restaurant",
+            "location": "Wood Avenue, Nairobi, EMEA 00100",
+            "latitude": -1.2973146125906634,
+            "longitude": 36.786622935138624
+        },
+        {
+            "uuid": "a0644dc9-cdf7-4c4c-b609-e14b1bf61def",
+            "nome": "City Ranch Pork & Grill",
+            "location": "Kilimani, Chania Avenue, Nairobi, EMEA 00800",
+            "latitude": -1.295246994842733,
+            "longitude": 36.78444983122696
+        },
+        {
+            "uuid": "ab7bea23-4765-5841-89e7-f47552f68db7",
+            "nome": "Beijing Square Meals",
+            "location": "Westland Commercial Center Park/ Ring Road Directly Opposite Kenrail Towers Old Block Near Parking Paying Station, Nairobi, Nairobi 00100",
+            "latitude": -1.2605515758043764,
+            "longitude": 36.803358966433166
+        },
+        {
+            "uuid": "149f2d64-f2d2-50c4-949f-26b2b8a2d032",
+            "nome": "Sushi Time",
+            "location": "Ananas Court , Lower Kabete Road, Nairobi, 00100, ",
+            "latitude": -1.2607252308632861,
+            "longitude": 36.80297150895968
+        },
+        {
+            "uuid": "bf0b018b-70bd-4bef-90f9-8cefe644fa80",
+            "nome": "Kienyeji's Pre- Cooked Vegetables",
+            "location": "Kilimani Ring Rd, Nairobi",
+            "latitude": -1.29591,
+            "longitude": 36.78776
+        },
+        {
+            "uuid": "0e4de07f-eb2d-47db-b176-68ceada58c09",
+            "nome": "Unending laughter",
+            "location": "M, Menelik Suits, Nairobi",
+            "latitude": -1.2976456825360136,
+            "longitude": 36.78392744218406
+        },
+        {
+            "uuid": "04a358d2-287a-4b84-bb3a-4e13d17723bb",
+            "nome": "Moov Cafe & Bistro",
+            "location": "Wood Avenue, Nairobi, Nairobi 00100",
+            "latitude": -1.2948862646059827,
+            "longitude": 36.786427789471226
+        },
+        {
+            "uuid": "225f5435-db1d-5f51-a05f-5b7ea929e05d",
+            "nome": "Stan Frys Highridge",
+            "location": "Highridge Mall, Massari Road, Nairobi, EMEA 00100",
+            "latitude": -1.2592982655294176,
+            "longitude": 36.81805214384823
+        },
+        {
+            "uuid": "ad0e0129-decb-54a2-8a96-6092addd677e",
+            "nome": "Baladi Restaurant",
+            "location": "Stellato Mall , Mutithi Road Westlands, Nairobi, Emea, 00100, ",
+            "latitude": -1.2673579691998604,
+            "longitude": 36.80816267315688
+        },
+        {
+            "uuid": "e68ea987-3ced-428e-8543-554daa1421af",
+            "nome": "T.p Swahili Food & Snacks",
+            "location": "Pioneer Bazar , Ground Floor,Shop No.1, Nairobi, Nairobi 00300",
+            "latitude": -1.287394901288293,
+            "longitude": 36.820335388183594
+        },
+        {
+            "uuid": "64c795cf-1801-47d0-9ded-4b492bfa23f0",
+            "nome": "Hak's Barbeque ",
+            "location": "Birongo Square , Nairobi",
+            "latitude": -1.3081569623640485,
+            "longitude": 36.822763842871375
+        },
+        {
+            "uuid": "5723b613-ed7b-521f-8cc9-41977d10fe85",
+            "nome": "The Top Layer - Ola Sangale",
+            "location": "Ole-Sangale Link Road, Nairobi, Nairobi 00100",
+            "latitude": -1.3097695567303933,
+            "longitude": 36.812056477249364
+        },
+        {
+            "uuid": "35f29c7e-9e6a-4820-86bb-d423654d361d",
+            "nome": "Tash Dishes",
+            "location": "Banjuni Road Ngara, Desai Road -Near Ministry Of Housing Estate, Nairobi, Ke, 00600, ",
+            "latitude": -1.2729373678804805,
+            "longitude": 36.828053415568355
+        },
+        {
+            "uuid": "0cec6001-2356-5333-8c63-ee2613e0a469",
+            "nome": "KTC Dosa House Ltd",
+            "location": "Broadwalk Mall, Ojijo Road, Nairobi, EMEA 00100",
+            "latitude": -1.2699078312368057,
+            "longitude": 36.81274149062262
+        },
+        {
+            "uuid": "b7cc4c5a-6c26-410a-99c5-2ae098e5772c",
+            "nome": "Roadside Food Corner ",
+            "location": "Hakati Road, Nairobi, EMEA NO_POSTAL_CODE",
+            "latitude": -1.287875,
+            "longitude": 36.8277287
+        },
+        {
+            "uuid": "b6752cf9-6fbf-4a18-98a8-624fa0ea5437",
+            "nome": "Sydneys",
+            "location": "Dorobo Road, Club 36, Nairobi, Nairobi 00100",
+            "latitude": -1.2829337447333453,
+            "longitude": 36.81103483524324
+        },
+        {
+            "uuid": "ba098acc-e91d-5d0d-a0f5-daa740dd660d",
+            "nome": "PRONTO RESTAURANT (Aga Khan)",
+            "location": "Pronto Restaurant- Aga Khan, Nairobi, Emea, 00100, ",
+            "latitude": -1.287715003158412,
+            "longitude": 36.82553110635916
+        },
+        {
+            "uuid": "f812d2f1-0ad5-49b9-8650-9bf5d6b9bfda",
+            "nome": "Fresh Ingredientsdishesltd",
+            "location": "Hopspital - Elgon  Road Round About , Upperhill Nairobi, 13, Nairobi 00100",
+            "latitude": -1.3019485937726527,
+            "longitude": 36.811926883431354
+        },
+        {
+            "uuid": "53f55a96-a5b7-5745-96f2-9e2dcfe31c5f",
+            "nome": "Aura Food Services Limited",
+            "location": "B-Arcade Mall, Off Arwings Kodhek Road, Behind Kingdom Bank Kilimani, Nairobi, EMEA 00100",
+            "latitude": -1.2951734101765333,
+            "longitude": 36.805719873787076
+        },
+        {
+            "uuid": "2008bf11-0db3-53c7-8974-87cea3c128b1",
+            "nome": "SUSHI AND DIMSUM",
+            "location": "Lower Kabete Rd, Nairobi",
+            "latitude": -1.2604384614282573,
+            "longitude": 36.80326741474056
+        },
+        {
+            "uuid": "8a20efa8-7929-5b54-8b7a-61e0644fc9ea",
+            "nome": "Stan Frys Pangani",
+            "location": "Pangani Shopping Centre, Nairobi, EMEA 00100",
+            "latitude": -1.2673819038585001,
+            "longitude": 36.83752124397693
+        },
+        {
+            "uuid": "4e03d2e3-dd52-5057-8f02-d7b1a81ee3dd",
+            "nome": "SKP Kitchen",
+            "location": "Jabavu House ,Jabavu Lane, Off Arwings Kodhek Rd, Nairobi, EMEA 00100",
+            "latitude": -1.294125205242088,
+            "longitude": 36.79713594409497
+        },
+        {
+            "uuid": "e2aa872d-17a2-5f6b-922a-ba119e33a74c",
+            "nome": "Green-Collins Food",
+            "location": "New Al Noor Exhibition Accra Rd, Nairobi, 47, Ke, ",
+            "latitude": -1.2831658763575107,
+            "longitude": 36.82625738511902
+        },
+        {
+            "uuid": "db779cca-2365-41cd-b22b-22b6d02a87ff",
+            "nome": "Ck's Kitchen",
+            "location": "Mtongwe Rd & Ngumo West, Nairobi",
+            "latitude": -1.308695,
+            "longitude": 36.798344
+        },
+        {
+            "uuid": "82337d45-f339-4536-83c8-28a1fe683b37",
+            "nome": "SHONGOROS PLATTER ",
+            "location": "Okoth Aura Rd, Nairobi",
+            "latitude": -1.2678859219826828,
+            "longitude": 36.830939678572435
+        },
+        {
+            "uuid": "2231b5e0-2c40-4024-ab56-14a70512527b",
+            "nome": "Hungers Pot",
+            "location": "Https://Maps.App.Goo.Gl/Pkgraugahraacmwv7 , ",
+            "latitude": -1.2983701926271272,
+            "longitude": 36.79570606478741
+        },
+        {
+            "uuid": "70ebdea4-b83e-4b78-aebf-319b6855d860",
+            "nome": "DINEPLATE KITCHEN ",
+            "location": "Madaraka, Siwaka Plaza, Nairobi",
+            "latitude": -1.3093704970561544,
+            "longitude": 36.811543530943396
+        },
+        {
+            "uuid": "3c7c85d1-8ef9-40dd-9d09-6a4128b029cd",
+            "nome": "Beli's Deli",
+            "location": "Kingland Park Building Opposite Pefa Syokimau Church Along Katani Road., Nairobi, ",
+            "latitude": -1.2860367288734207,
+            "longitude": 36.820160441033536
+        },
+        {
+            "uuid": "6106d9f2-9ce7-4342-beb8-3da3753c1ce1",
+            "nome": "The Fish Place",
+            "location": "596 Ruaka Square Building In Ruaka Town, Kiambu, Nairobi, 00206, ",
+            "latitude": -1.2831,
+            "longitude": 36.8209
+        },
+        {
+            "uuid": "16510a35-3ae9-4917-91a1-3363c92df55f",
+            "nome": "Atyeno Foodplus ",
+            "location": "Gitanga Road, 3rd Floor ,Kings Place Kawangware,Congo, Nairobi, Nairobi 00254",
+            "latitude": -1.2831,
+            "longitude": 36.8209
+        },
+        {
+            "uuid": "2a623733-2ff6-545f-ab46-d63ba0b5c6df",
+            "nome": "Africa Fresh Cafe",
+            "location": "Kilimani Ring Rd, Nairobi",
+            "latitude": -1.29691,
+            "longitude": 36.78791
+        },
+        {
+            "uuid": "5c4dcba2-ec5a-54e9-958f-068be8059326",
+            "nome": "Tamu Tamu Meals- Westlands",
+            "location": "Ambience Mall, Ring Road Parklands, Nairobi, EMEA 00100",
+            "latitude": -1.2622628310945594,
+            "longitude": 36.8033819815558
+        },
+        {
+            "uuid": "42d31808-57a0-5ae4-835a-dbd31e66f1c3",
+            "nome": "The Top Layer Kitchen, Commercial Center",
+            "location": "Commercial Center Pak/ Ring Road Directly Opposite Kenrail Towers Old Block Near Parking Paying Station, Nairobi, Nairobi 00100",
+            "latitude": -1.2607772288773882,
+            "longitude": 36.80441262672669
+        },
+        {
+            "uuid": "12d45761-8234-49cb-9c4e-1c4d3f5ab39a",
+            "nome": "Berets Jars",
+            "location": "667 Rose Ave, Nairobi, Kenya, Blue Gate Next To Monarch Hotel, ",
+            "latitude": -1.2969842,
+            "longitude": 36.795425
+        },
+        {
+            "uuid": "fda44696-6145-59c3-ae27-5b0ca88ba853",
+            "nome": "Souvlaki\u2019s",
+            "location": "Argwings Kodhek Groove,, Nairobi, Nairobi, 00100, ",
+            "latitude": -1.2952057699616462,
+            "longitude": 36.79788097946468
+        },
+        {
+            "uuid": "52009656-be62-4de6-994b-491883a1fa02",
+            "nome": "Crispy Bites Cafe - Westlands",
+            "location": "Muthithi Hypermarket,\r\nMuthithi Road, Nairobi, Westlands, Muthithi Hypermart Mall Muthithi Road Stall C11, EMEA 00800",
+            "latitude": -1.2655218,
+            "longitude": 36.807
+        },
+        {
+            "uuid": "852ccb05-cec3-408e-bcaf-c5aaaa865526",
+            "nome": "FreshDelish",
+            "location": "Old Mutual Tower, Upper Hill Road, Nairobi, Kenya, ",
+            "latitude": -1.299106837226897,
+            "longitude": 36.81876734837924
+        },
+        {
+            "uuid": "aa2dc87a-c61d-4aa2-8a6f-4569b39ed806",
+            "nome": "Coco Jambo - Dennis Pritt",
+            "location": "Denis Pritt Rd, Nairobi",
+            "latitude": -1.2858062009343436,
+            "longitude": 36.78527076160916
+        }
+    ]
+}

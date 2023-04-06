@@ -1,0 +1,324 @@
+{
+    "lojas": [
+        {
+            "uuid": "508f31b3-9824-5be6-9030-c317ecb4a780",
+            "nome": "Rolling Barrel"
+        },
+        {
+            "uuid": "b5661f4a-cf31-589c-a0b8-3a55b9d67be1",
+            "nome": "Galito's - Kileleshwa"
+        },
+        {
+            "uuid": "b54b61b7-09ea-512a-be15-4ff4cc1f135a",
+            "nome": "Kilimani Pork Centre"
+        },
+        {
+            "uuid": "771bb12e-3937-486e-ad89-cf46e4c92f97",
+            "nome": "Delsi Wings - Kilimani"
+        },
+        {
+            "uuid": "4696e8d1-f63f-454f-a867-eea70b2b5a92",
+            "nome": "Delsi Wings and Ribs"
+        },
+        {
+            "uuid": "69eea2f2-4fdb-47c3-ae49-54f97c69bfb7",
+            "nome": "Supermarket Essentials - Ngong Rd"
+        },
+        {
+            "uuid": "e665de26-54e5-4598-9398-e4972b765f21",
+            "nome": "EXCELLENT WINGS NAIROBI "
+        },
+        {
+            "uuid": "cc6e2375-3a22-44d2-95d2-e5eda04fbae3",
+            "nome": "Shop and Save Supermarket - Riverside"
+        },
+        {
+            "uuid": "56216e42-e5a6-438d-87f8-fc14ae7554b0",
+            "nome": "Mabruk cafe"
+        },
+        {
+            "uuid": "ce049b11-68cc-5f36-88ab-0a11491ca8f5",
+            "nome": "Snack Attack Westlands"
+        },
+        {
+            "uuid": "497ca163-e3c5-4e6d-84c8-d5cf4d601e26",
+            "nome": "Tunic Kitchen"
+        },
+        {
+            "uuid": "fc4cfbe7-ec4f-5a38-a9b2-720ce39eec4a",
+            "nome": "Lam-Lam's Pizza and Yummy Bitings"
+        },
+        {
+            "uuid": "c641254f-decc-4022-8e93-adef8ff7c78c",
+            "nome": "Amaryah Cuisines"
+        },
+        {
+            "uuid": "6a7097ed-6711-4c88-bee1-a240293f7da3",
+            "nome": "Simply Halal"
+        },
+        {
+            "uuid": "9c05d580-a591-444b-8c4c-531e921042be",
+            "nome": "Indaxe Steak House"
+        },
+        {
+            "uuid": "6fa2c089-718f-4d4c-8574-43b3c8e92b50",
+            "nome": "BATIANS PEAK"
+        },
+        {
+            "uuid": "55d9252b-01fc-4d42-b3d8-1318804ac995",
+            "nome": "Viva Grill Steakhouse"
+        },
+        {
+            "uuid": "41264272-ef0f-58ba-9203-59a8cd57b9f7",
+            "nome": "Chowpaty - Kileleshwa"
+        },
+        {
+            "uuid": "55a38f3f-fbee-498c-a374-3d785ed58552",
+            "nome": "Fusion Veg Ltd"
+        },
+        {
+            "uuid": "e3e708d2-c6f1-459b-a4ff-117a3712b005",
+            "nome": "Willow Garden Kitchen"
+        },
+        {
+            "uuid": "2a2ab68a-17f3-4cbe-b852-bddb7f3bedd3",
+            "nome": "The Chef House"
+        },
+        {
+            "uuid": "9d5d2226-3fef-463d-bb1d-cccd7c424dbd",
+            "nome": "Special Barbeque (By Bhajia House)"
+        },
+        {
+            "uuid": "b0bdf93a-8396-52f5-beb2-2c7a1a1856a3",
+            "nome": "Kukito Orbit"
+        },
+        {
+            "uuid": "d4943737-e9c9-5f6f-aedc-13d9eb1049bc",
+            "nome": "Kukito Highway Mall"
+        },
+        {
+            "uuid": "a4fe7450-98f9-4481-b809-4f4916b9d61a",
+            "nome": "Aila's Dishes"
+        },
+        {
+            "uuid": "f3e45431-988a-49a2-a939-6c5889417706",
+            "nome": "The Plato Restaurant "
+        },
+        {
+            "uuid": "aa543216-d1f3-40ea-bb52-e0e22be8049d",
+            "nome": "Tikka Barbecue Corner -Gigiri"
+        },
+        {
+            "uuid": "7f375e55-5a23-470b-8d31-bc00acde7ada",
+            "nome": "RIBS WINGS BURGERS & BRISKET HUB"
+        },
+        {
+            "uuid": "7c73fd19-067f-4244-ad04-e0c0e936840d",
+            "nome": "McFrys - Hurlingham"
+        },
+        {
+            "uuid": "0c5d10d6-e318-53a4-8c9d-c79ce932a33a",
+            "nome": "Marty\u2019s Famous Burgers - Kilimani"
+        },
+        {
+            "uuid": "80cd222d-ef81-4482-89cc-285c77febe21",
+            "nome": "Mataam Swahili "
+        },
+        {
+            "uuid": "354f6600-6401-413a-af97-5a3ac19e3332",
+            "nome": "KFC - Hurlingham"
+        },
+        {
+            "uuid": "8c78ea09-7647-4de8-94f0-f7b4eb5448ec",
+            "nome": "Westy Fry's "
+        },
+        {
+            "uuid": "995ab32f-d64b-5c78-8faa-80d8ea5a80ef",
+            "nome": "Java - Express Kileleshwa"
+        },
+        {
+            "uuid": "ea14efde-dd5f-48a5-aeca-d587847cfac8",
+            "nome": "Bubble cafe "
+        },
+        {
+            "uuid": "be8e60e4-9205-5d0d-80b4-e2f1d7f52e9c",
+            "nome": "Lago's Nigeria Cuisine"
+        },
+        {
+            "uuid": "dadb6274-e304-4cbf-9043-198aefa84283",
+            "nome": "Debonairs Pizza -  ABC Place"
+        },
+        {
+            "uuid": "a4e16cb3-5344-42d8-9eac-183ab8a48ec6",
+            "nome": "Fonda's Taqueria"
+        },
+        {
+            "uuid": "e6d890c3-52ef-45dc-b1f6-c16614c83d99",
+            "nome": "Hatchbox - Sarit"
+        },
+        {
+            "uuid": "37c09f7f-bee8-499b-b7a6-bfdbb09f9c5a",
+            "nome": "Bhagwanji Foods"
+        },
+        {
+            "uuid": "febe6010-009c-47be-a16f-6f2765a0d5f0",
+            "nome": "FIESTA PLACE"
+        },
+        {
+            "uuid": "824f3f54-f556-5e79-bb05-003d9d852e11",
+            "nome": "Vanice Eatery"
+        },
+        {
+            "uuid": "307af17e-7417-5265-88a7-bc9e0427fbbd",
+            "nome": "Pork Backyard restaurant"
+        },
+        {
+            "uuid": "a0644dc9-cdf7-4c4c-b609-e14b1bf61def",
+            "nome": "City Ranch Pork & Grill"
+        },
+        {
+            "uuid": "ab7bea23-4765-5841-89e7-f47552f68db7",
+            "nome": "Beijing Square Meals"
+        },
+        {
+            "uuid": "149f2d64-f2d2-50c4-949f-26b2b8a2d032",
+            "nome": "Sushi Time"
+        },
+        {
+            "uuid": "bf0b018b-70bd-4bef-90f9-8cefe644fa80",
+            "nome": "Kienyeji's Pre- Cooked Vegetables"
+        },
+        {
+            "uuid": "0e4de07f-eb2d-47db-b176-68ceada58c09",
+            "nome": "Unending laughter"
+        },
+        {
+            "uuid": "04a358d2-287a-4b84-bb3a-4e13d17723bb",
+            "nome": "Moov Cafe & Bistro"
+        },
+        {
+            "uuid": "225f5435-db1d-5f51-a05f-5b7ea929e05d",
+            "nome": "Stan Frys Highridge"
+        },
+        {
+            "uuid": "ad0e0129-decb-54a2-8a96-6092addd677e",
+            "nome": "Baladi Restaurant"
+        },
+        {
+            "uuid": "e68ea987-3ced-428e-8543-554daa1421af",
+            "nome": "T.p Swahili Food & Snacks"
+        },
+        {
+            "uuid": "64c795cf-1801-47d0-9ded-4b492bfa23f0",
+            "nome": "Hak's Barbeque "
+        },
+        {
+            "uuid": "5723b613-ed7b-521f-8cc9-41977d10fe85",
+            "nome": "The Top Layer - Ola Sangale"
+        },
+        {
+            "uuid": "35f29c7e-9e6a-4820-86bb-d423654d361d",
+            "nome": "Tash Dishes"
+        },
+        {
+            "uuid": "0cec6001-2356-5333-8c63-ee2613e0a469",
+            "nome": "KTC Dosa House Ltd"
+        },
+        {
+            "uuid": "b7cc4c5a-6c26-410a-99c5-2ae098e5772c",
+            "nome": "Roadside Food Corner "
+        },
+        {
+            "uuid": "b6752cf9-6fbf-4a18-98a8-624fa0ea5437",
+            "nome": "Sydneys"
+        },
+        {
+            "uuid": "ba098acc-e91d-5d0d-a0f5-daa740dd660d",
+            "nome": "PRONTO RESTAURANT (Aga Khan)"
+        },
+        {
+            "uuid": "f812d2f1-0ad5-49b9-8650-9bf5d6b9bfda",
+            "nome": "Fresh Ingredientsdishesltd"
+        },
+        {
+            "uuid": "53f55a96-a5b7-5745-96f2-9e2dcfe31c5f",
+            "nome": "Aura Food Services Limited"
+        },
+        {
+            "uuid": "2008bf11-0db3-53c7-8974-87cea3c128b1",
+            "nome": "SUSHI AND DIMSUM"
+        },
+        {
+            "uuid": "8a20efa8-7929-5b54-8b7a-61e0644fc9ea",
+            "nome": "Stan Frys Pangani"
+        },
+        {
+            "uuid": "4e03d2e3-dd52-5057-8f02-d7b1a81ee3dd",
+            "nome": "SKP Kitchen"
+        },
+        {
+            "uuid": "e2aa872d-17a2-5f6b-922a-ba119e33a74c",
+            "nome": "Green-Collins Food"
+        },
+        {
+            "uuid": "db779cca-2365-41cd-b22b-22b6d02a87ff",
+            "nome": "Ck's Kitchen"
+        },
+        {
+            "uuid": "82337d45-f339-4536-83c8-28a1fe683b37",
+            "nome": "SHONGOROS PLATTER "
+        },
+        {
+            "uuid": "2231b5e0-2c40-4024-ab56-14a70512527b",
+            "nome": "Hungers Pot"
+        },
+        {
+            "uuid": "70ebdea4-b83e-4b78-aebf-319b6855d860",
+            "nome": "DINEPLATE KITCHEN "
+        },
+        {
+            "uuid": "3c7c85d1-8ef9-40dd-9d09-6a4128b029cd",
+            "nome": "Beli's Deli"
+        },
+        {
+            "uuid": "6106d9f2-9ce7-4342-beb8-3da3753c1ce1",
+            "nome": "The Fish Place"
+        },
+        {
+            "uuid": "16510a35-3ae9-4917-91a1-3363c92df55f",
+            "nome": "Atyeno Foodplus "
+        },
+        {
+            "uuid": "2a623733-2ff6-545f-ab46-d63ba0b5c6df",
+            "nome": "Africa Fresh Cafe"
+        },
+        {
+            "uuid": "5c4dcba2-ec5a-54e9-958f-068be8059326",
+            "nome": "Tamu Tamu Meals- Westlands"
+        },
+        {
+            "uuid": "42d31808-57a0-5ae4-835a-dbd31e66f1c3",
+            "nome": "The Top Layer Kitchen, Commercial Center"
+        },
+        {
+            "uuid": "12d45761-8234-49cb-9c4e-1c4d3f5ab39a",
+            "nome": "Berets Jars"
+        },
+        {
+            "uuid": "fda44696-6145-59c3-ae27-5b0ca88ba853",
+            "nome": "Souvlaki\u2019s"
+        },
+        {
+            "uuid": "52009656-be62-4de6-994b-491883a1fa02",
+            "nome": "Crispy Bites Cafe - Westlands"
+        },
+        {
+            "uuid": "852ccb05-cec3-408e-bcaf-c5aaaa865526",
+            "nome": "FreshDelish"
+        },
+        {
+            "uuid": "aa2dc87a-c61d-4aa2-8a6f-4569b39ed806",
+            "nome": "Coco Jambo - Dennis Pritt"
+        }
+    ]
+}

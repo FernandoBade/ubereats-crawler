@@ -1,9 +1,9 @@
 import scrapy
-from ..store_info import get_store_ids
+from store_info import get_store_ids
 import json
 import time
 
-uuids = store_info.get_store_ids()
+uuids = get_store_ids()
 class UberSpider(scrapy.Spider):
     name = 'uber'
     allowed_domains = ['ubereats.com']
@@ -28,7 +28,7 @@ class UberSpider(scrapy.Spider):
     def parse(self, response):
         
         jsonresponse = json.loads(response.body.decode('utf-8'))
-       # print(jsonresponse)
+        print(jsonresponse)
         name = jsonresponse["data"]['title']
         location = jsonresponse["data"]["location"]["address"]
         city = jsonresponse["data"]["location"]["city"]
